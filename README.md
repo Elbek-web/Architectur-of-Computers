@@ -4,7 +4,7 @@ Code and results for the paper *"Comparing Lightweight Machine Learning Models f
 Generalization and Computational Cost"* (Student Research Challenge 2026/27, Architecture of Computers,
 Vistula University).
 
-Author: [Name], student ID [ID]
+Author: Elbek Erkinov, student ID 77227
 
 ## What the script does
 
