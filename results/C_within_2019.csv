@@ -1,0 +1,5 @@
+model,FPR,recall_Syn,recall_NTP
+LogReg,0.004,0.9968,0.9945
+DecisionTree,0.0013,0.9952,0.998
+RandomForest,0.0004,0.9952,0.998
+KNN,0.002,0.9905,0.9956
